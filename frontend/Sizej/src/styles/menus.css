@@ -1,0 +1,89 @@
+/* MAIN TOP MENU */
+.mainTopMenu {
+    height: 80px;
+    background-color: white;
+    box-shadow: 0px 10px 20px #12263F0D;
+    padding-left: 20px;
+}
+
+.topMenuUserButton {
+    height: 100%;
+    padding-right: 20px;
+}
+.topMenuUserButton:hover > span {
+    color: #ff6600;
+}
+.topMenuUserButton:hover > img {
+    border: 2px solid #FF6600;
+}
+
+/* TopMenuUserButtonDropdown */
+.topMenuUserButtonDropdownContainer {
+    border: none;
+    height: 100%;
+}
+.topMenuUserButtonDropdownVisible {
+    height: 100%;
+}
+.topMenuUserButtonDropdownHidden {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px 20px 20px 20px;
+    width: 400px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 5;
+}
+.topMenuUserButtonDropdownRow  {
+    padding: 15px 24.5px;
+    border-top: 1px solid #EFF2F7;
+}
+
+.topMenuUserButtonDropdownRow:first-child  {
+    border-top: 2px solid #E9E8EB;
+}
+
+.topMenuUserButtonDropdownRow span {
+    cursor: pointer;
+}
+
+.topMenuUserButtonDropdownRow span:hover {
+    color: #FF6600;
+}
+
+.topMenuUserButtonDropdownContainer:hover .topMenuUserButtonDropdownHidden {
+    display: block;
+}
+.topMenuUserButtonDropdownContainer:hover .topMenuUserButtonDropdownVisible {
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* END OF TopMenuUserButtonDropdown */
+
+/* ADD NEW BUTTON DROPDOWN */
+
+.addNewButtonDropdownContainer {
+    border: none;
+    position: relative;
+}
+.addNewButtonDropdownVisible {
+    /*height: 100%;*/
+    position: relative;
+    z-index: 11;
+}
+.addNewButtonDropdownHidden {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    top: 50%;
+    width: 100%;
+    background-color: white;
+    padding-top: 20px;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.addNewButtonDropdownContainer:hover .addNewButtonDropdownHidden {
+    display: block;
+}

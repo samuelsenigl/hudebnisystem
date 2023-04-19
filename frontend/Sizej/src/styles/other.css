@@ -1,0 +1,305 @@
+@font-face {
+    font-family: PoppinsRegular;
+    src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: PoppinsItalic;
+    src: url("../fonts/Poppins/Poppins-Italic.ttf");
+}
+@font-face {
+    font-family: PoppinsSemiBold;
+    src: url("../fonts/Poppins/Poppins-SemiBold.ttf");
+}
+@font-face {
+    font-family: PoppinsBold;
+    src: url("../fonts/Poppins/Poppins-Bold.ttf");
+}
+@font-face {
+    font-family: PoppinsMedium;
+    src: url("../fonts/Poppins/Poppins-Medium.ttf");
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+.horizontalStack {
+    display: flex;
+    flex-direction: row;
+}
+.horizontalStackCenter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.verticalStack {
+    display: flex;
+    flex-direction: column;
+}
+.verticalStackCenter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.centerAll {
+    align-items: center;
+    justify-content: center;
+}
+.flex {
+    flex: 1;
+}
+.clickable:hover {
+    cursor: pointer;
+}
+
+/* FONTS */
+
+.fontPoppinsRegular13 {
+    font-family: PoppinsRegular;
+    font-size: 13px;
+    color: #000000;
+}
+
+.fontPoppinsRegular15 {
+    font-family: PoppinsRegular;
+    font-size: 15px;
+}
+
+.fontPoppinsItalic15 {
+    font-family: PoppinsItalic;
+    font-size: 15px;
+}
+
+.fontPoppinsRegular13Gray {
+    font-family: PoppinsRegular;
+    font-size: 13px;
+    color: #74788D;
+}
+
+.fontPoppinsRegular13DarkGray {
+    font-family: PoppinsRegular;
+    font-size: 13px;
+    color: #495057;
+}
+
+.fontPoppinsRegular13AlmostBlack {
+    font-family: PoppinsRegular;
+    font-size: 13px;
+    color: #110B22;
+}
+
+.fontPoppinsRegular13White {
+    font-family: PoppinsRegular;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.fontPoppinsRegular13Blue {
+    font-family: PoppinsRegular;
+    font-size: 13px;
+    color: #556EE6;
+}
+
+.fontPoppinsSemiBold13 {
+    font-family: PoppinsSemiBold;
+    font-size: 13px;
+}
+
+.fontPoppinsBold13 {
+    font-family: PoppinsBold;
+    font-size: 13px;
+}
+
+.fontPoppinsSemiBold13Gray {
+    font-family: PoppinsSemiBold;
+    font-size: 13px;
+    color: #74788D;
+}
+
+.fontPoppinsSemiBold13DarkGray {
+    font-family: PoppinsSemiBold;
+    font-size: 13px;
+    color: #495057;
+}
+
+.fontPoppinsSemiBold13LightGray {
+    font-family: PoppinsSemiBold;
+    font-size: 13px;
+    color: #D6D0E3;
+}
+
+.fontPoppinsSemiBold16 {
+    font-family: PoppinsSemiBold;
+    font-size: 16px;
+    color: #D6D0E3;
+}
+
+.fontPoppinsSemiBold15 {
+    font-family: PoppinsSemiBold;
+    font-size: 15px;
+}
+.fontPoppinsSemiBold15Black {
+    font-family: PoppinsSemiBold;
+    font-size: 15px;
+    color: #000000;
+}
+.fontPoppinsSemiBold15Gray {
+    font-family: PoppinsSemiBold;
+    font-size: 15px;
+    color: #74788D;
+}
+.fontPoppinsSemiBold15Blue {
+    font-family: PoppinsSemiBold;
+    font-size: 15px;
+    color: #556EE6;
+}
+
+.fontPoppinsItalic13 {
+    font-family: PoppinsItalic;
+    font-size: 13px;
+}
+
+.fontPoppinsItalic13Gray {
+    font-family: PoppinsItalic;
+    font-size: 13px;
+    color: #74788D;
+}
+
+.fontPoppinsMedium20 {
+    font-family: PoppinsMedium;
+    font-size: 20px;
+}
+
+.fontPoppinsMedium20Gray {
+    font-family: PoppinsMedium;
+    font-size: 20px;
+    color: #74788D;
+}
+
+.fontPoppinsMedium40White {
+    font-family: PoppinsRegular;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.fontPoppinsBold25 {
+    font-family: PoppinsBold;
+    font-size: 25px;
+}
+
+.fontPoppinsBold25Orange {
+    font-family: PoppinsBold;
+    font-size: 25px;
+    color: #ff6600;
+}
+
+.logoText {
+    font-family: PoppinsSemiBold;
+    font-size: 30px;
+    color: #556EE6;
+}
+
+.loginTitle {
+    font-family: PoppinsSemiBold;
+    font-size: 70px;
+    color: #556EE6;
+}
+
+/* END OF FONTS */
+
+.onHoverToOrange:hover {
+    filter: invert(45%) sepia(23%) saturate(7498%) hue-rotate(2deg) brightness(104%) contrast(103%); /* change color to orange #ff6600 */
+}
+
+/* UNIVERSAL POPUP SELECT STYLES */
+
+.universalPopupSelectContainer {
+    border: none;
+    overflow: hidden;
+}
+
+.universalPopupSelectVisible {
+    /*height: 100%;*/
+    position: relative;
+}
+
+.universalPopupSelectHidden {
+    /*display: none;*/
+    position: absolute;
+
+    z-index: 101;
+    padding: 10px 15px 10px 15px;
+    background-color: white;
+    box-shadow: 0px 10px 20px #12263F0D;
+    border-radius: 20px;
+    margin-top: -30px;
+    margin-left: -15px;
+    white-space: nowrap;
+}
+
+
+/* END OF UNIVERSAL POPUP STYLES */
+
+.embedVideo {
+    flex: 1;
+}
+
+.embedVideo iframe {
+    width: 100%;
+    max-width: 600px;
+    aspect-ratio : 1920 / 1080;
+    border-radius: 20px;
+}
+
+.chord {
+    margin-bottom: 10px;
+}
+
+.playlistRunLeftFloatingButton {
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 17px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.playlistRunRightFloatingButton {
+    width: 70px;
+    height: 70px;
+    rotate: 180deg;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 10px;
+    bottom: 17px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.playlistRunCenterFloatingButton {
+    width: 100%;
+    margin: auto;
+    position: fixed;
+    bottom: 17px;
+    cursor: pointer;
+}

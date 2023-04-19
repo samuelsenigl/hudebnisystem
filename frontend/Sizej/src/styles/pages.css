@@ -1,0 +1,107 @@
+.tableListingBar {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.buttonPagingUp {
+    width: 10px;
+    height: 10px;
+    background-image: url('../assets/icon_paging_up.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 70% 70%;
+}
+.buttonPagingUp:hover {
+    background-image: url('../assets/icon_paging_up_orange.png');
+}
+.buttonPagingDown {
+    width: 10px;
+    height: 10px;
+    background-image: url('../assets/icon_paging_down.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 70% 70%;
+}
+.buttonPagingDown:hover {
+    background-image: url('../assets/icon_paging_down_orange.png');
+}
+
+/* START OF LOGIN PAGE */
+
+.loginPage {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    background-image: url('../assets/background_sign_in.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginPageEmailElement {
+    background: #F3F3F9;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 20px;
+}
+
+.loginPagePasswordElement {
+    background: #F3F3F9;
+    padding-left: 18px;
+    border-radius: 20px;
+}
+
+.loginPageEmailInput {
+    width: 100%;
+    background: transparent;
+    border: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.loginPagePasswordInput {
+    width: 100%;
+    background: transparent;
+    border: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.loginPageLoginButton {
+    background: #D4DAF9;
+    white-space: nowrap;
+    border: 0px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* END OF LOGIN PAGE */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

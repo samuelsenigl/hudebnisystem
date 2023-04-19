@@ -1,0 +1,46 @@
+.roundButton {
+    border: 0px;
+    background: #d4daf9;
+    padding-left: 16px;
+    padding-right: 20px;
+    padding-top: 11.5px;
+    padding-bottom: 11.5px;
+    border-radius: 20px;
+}
+.roundButton:hover {
+    background: #e8eafb;
+}
+
+.topMenuSearchBox {
+    width: 100%;
+    background-color: #F3F3F9;
+    border-radius: 20px;
+}
+
+.topMenuSearchBoxInput {
+    background-color: transparent;
+    background: url("../assets/icon_search.png") no-repeat left;
+    background-size: 16px;
+    background-position: 12px;
+    width: 100%;
+    border: 0px solid black;
+    border-radius: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 40px;
+}
+.topMenuSearchBoxInput::placeholder {
+    color: #74788D;
+}
+
+.grayTextButton:hover{
+    color: #ff6600;
+}
+
+
+
+
+
+
+
+
