@@ -1,4 +1,0 @@
-Connected to DB
-request: /api/playlists/get_adv, time:19:31
-request: /api/team/members, time:19:31
-request: /api/playlists/get?limit=50&offset=0, time:19:31

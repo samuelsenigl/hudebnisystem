@@ -1,8 +1,0 @@
-Connected to DB
-request: /api/restorePassword, time:17:6
-request: /api/login, time:17:6
-LETS DO LOGIN
-username: samuel.senigl@gmail.com
-password: 13869cc0
-account with this email was found
-wrong password or username

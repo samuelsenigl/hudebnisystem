@@ -1,8 +1,0 @@
-Connected to DB
-request: /api/songs/get?limit=50&offset=0, time:15:48
-request: /api/users/logged, time:15:48
-request: /api/songs/get?limit=50&offset=0, time:15:48
-request: /api/songs/get_adv?limit=50&offset=0, time:15:48
-request: /api/songs/get_adv?limit=50&offset=0, time:15:48
-request: /api/songs/get_adv?limit=50&offset=0, time:15:48
-request: /api/songs/get_adv?limit=50&offset=0, time:15:48
