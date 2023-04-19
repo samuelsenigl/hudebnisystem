@@ -1,0 +1,40 @@
+Connected to DB
+request: /api/songs/get?limit=50&offset=0, time:20:11
+request: /api/login, time:20:11
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+error when searching for password using email
+Error: Cannot enqueue Query after being destroyed.
+    at Protocol._validateEnqueue (/home/samuel/node_modules/mysql/lib/protocol/Protocol.js:218:16)
+    at Protocol._enqueue (/home/samuel/node_modules/mysql/lib/protocol/Protocol.js:138:13)
+    at Connection.query (/home/samuel/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/samuel/backend.js:121:6
+    at Layer.handle [as handle_request] (/home/samuel/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/samuel/node_modules/express/lib/router/index.js:328:13)
+    at /home/samuel/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/samuel/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/samuel/node_modules/express/lib/router/index.js:280:10)
+    at /home/samuel/backend.js:75:3 {
+  code: 'PROTOCOL_ENQUEUE_AFTER_DESTROY',
+  fatal: false
+}
+request: /api/login, time:20:11
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+error when searching for password using email
+Error: Cannot enqueue Query after being destroyed.
+    at Protocol._validateEnqueue (/home/samuel/node_modules/mysql/lib/protocol/Protocol.js:218:16)
+    at Protocol._enqueue (/home/samuel/node_modules/mysql/lib/protocol/Protocol.js:138:13)
+    at Connection.query (/home/samuel/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/samuel/backend.js:121:6
+    at Layer.handle [as handle_request] (/home/samuel/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/samuel/node_modules/express/lib/router/index.js:328:13)
+    at /home/samuel/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/samuel/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/samuel/node_modules/express/lib/router/index.js:280:10)
+    at /home/samuel/backend.js:75:3 {
+  code: 'PROTOCOL_ENQUEUE_AFTER_DESTROY',
+  fatal: false
+}

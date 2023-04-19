@@ -1,0 +1,141 @@
+Connected to DB
+request: /api/users/logged, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/login, time:18:53
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/tasks/get, time:18:53
+request: /api/users/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/playlists/members/9, time:18:53
+request: /api/playlists/songs/9, time:18:53
+request: /api/restorePassword, time:18:53
+request: /api/login, time:18:53
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: x39Hv6tS
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/playlists/members/9, time:18:53
+request: /api/playlists/songs/9, time:18:53
+request: /api/users/logged, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/roles/logged, time:18:53
+request: /api/team/members, time:18:53
+request: /api/users/newpassword, time:18:53
+request: /api/login, time:18:53
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/teams/logged, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/users/logged, time:18:53
+request: /api/playlists/members/9, time:18:53
+request: /api/playlists/songs/9, time:18:53
+request: /api/songs/get?limit=25&offset=0, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/playlists/songs/9, time:18:53
+request: /api/playlists/members/9, time:18:53
+request: /api/login, time:18:53
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/playlists/members/9, time:18:53
+request: /api/playlists/songs/9, time:18:53
+request: /, time:18:53
+request: /, time:18:53
+request: /favicon.ico, time:18:53
+request: /, time:18:53
+request: /cgi-bin/downloadFlile.cgi, time:18:53
+request: /status, time:18:53
+request: /stat, time:18:53
+request: http://azenv.net/, time:18:53
+request: /, time:18:53
+request: /, time:18:53
+request: /favicon.ico, time:18:53
+request: /, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/users/logged, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/login, time:18:53
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/playlists/members/9, time:18:53
+request: /api/playlists/songs/9, time:18:53
+request: /, time:18:53
+request: /favicon.ico, time:18:53
+request: http://api.ipify.org/?format=json, time:18:53
+request: /, time:18:53
+request: /status, time:18:53
+request: /stat, time:18:53
+request: /, time:18:53
+request: /, time:18:53
+request: /, time:18:53
+request: /favicon.ico, time:18:53
+request: /, time:18:53
+request: /api/login, time:18:53
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:18:53
+request: /api/songs/random, time:18:53
+request: /api/teams/logged, time:18:53
+request: /api/tasks/get, time:18:53
+request: /api/playlists/next, time:18:53
+request: /api/playlists/members/8, time:18:53
+request: /api/playlists/songs/8, time:18:53
+request: /api/songs/get?limit=25&offset=0, time:18:53
+request: /api/songs/get?search=n&limit=25&offset=0, time:18:53
+request: /api/songs/get?search=no&limit=25&offset=0, time:18:53
+request: /api/songs/get?search=not&limit=25&offset=0, time:18:53
