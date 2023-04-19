@@ -1,5 +1,5 @@
-# hudebnisystem
-Webový systém pro hudební kapely
+# Webový systém pro hudební kapely
+Vytvořený pomocí knihoven React a Node.js.
 
 Cílem této práce je pomoci hudebníkům kooperovat v rámci jejich hudebního seskupení
 a zjednodušit jim sdílení potřebných informací a dat pro efektivní spolupráci. Výstupem práce
