@@ -1,0 +1,124 @@
+Connected to DB
+request: /, time:20:24
+request: /, time:20:24
+request: /favicon.ico, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /api/playlists/next, time:20:24
+request: /api/teams/logged, time:20:24
+request: /api/songs/random, time:20:24
+request: /api/users/logged, time:20:24
+request: /api/tasks/get, time:20:24
+request: /api/login, time:20:24
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:20:24
+request: /api/teams/logged, time:20:24
+request: /api/songs/random, time:20:24
+request: /api/playlists/next, time:20:24
+request: /api/tasks/get, time:20:24
+request: /api/playlists/members/8, time:20:24
+request: /api/playlists/songs/8, time:20:24
+request: /api/team/members, time:20:24
+request: /api/tasks/get?limit=500&offset=0, time:20:24
+request: /api/tasks/get/14, time:20:24
+request: /api/tasks/shared/14, time:20:24
+request: /ab2g, time:20:24
+request: /ab2h, time:20:24
+request: /, time:20:24
+request: /api/songs/get?limit=500&offset=0, time:20:24
+request: /, time:20:24
+request: /favicon.ico, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /favicon.ico, time:20:24
+request: http://api.ipify.org/?format=json, time:20:24
+request: /, time:20:24
+request: /favicon.ico, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /favicon.ico, time:20:24
+request: /favicon.ico, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /nmaplowercheck1680373004, time:20:24
+request: /, time:20:24
+request: /NmapUpperCheck1680373004, time:20:24
+request: /Nmap/folder/check1680373004, time:20:24
+request: /sdk, time:20:24
+request: /, time:20:24
+request: /, time:20:24
+request: /cgi-bin/downloadFlile.cgi, time:20:24
+request: /api/login, time:20:24
+LETS DO LOGIN
+username: marketa.seniglova@gmail.com
+password: Genius12311
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:20:24
+request: /api/playlists/next, time:20:24
+request: /api/teams/logged, time:20:24
+request: /api/tasks/get, time:20:24
+request: /api/songs/random, time:20:24
+request: /api/songs/get?limit=25&offset=0, time:20:24
+request: /api/songs/get?limit=50&offset=0, time:20:24
+request: /api/songs/get?limit=100&offset=0, time:20:24
+request: /api/songs/get?limit=250&offset=0, time:20:24
+request: /api/notes/get/163, time:20:24
+request: /api/songs/get/163, time:20:24
+request: /api/tags/get/163, time:20:24
+request: /api/songs/get?limit=250&offset=0, time:20:24
+request: /api/tags/get/99, time:20:24
+request: /api/notes/get/99, time:20:24
+request: /api/songs/get/99, time:20:24
+request: /api/songs/get?limit=250&offset=0, time:20:24
+request: /api/team/members, time:20:24
+request: /api/playlists/get?limit=250&offset=0, time:20:24
+request: /api/team/members, time:20:24
+request: /api/songs/get?search=T, time:20:24
+request: /api/songs/get?search=Ty, time:20:24
+request: /api/songs/get?search=Ty, time:20:24
+request: /api/songs/get?search=Ty%20j, time:20:24
+request: /api/songs/get?search=Ty%20js, time:20:24
+request: /api/songs/get?search=Ty%20jsi, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20m, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20mu, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20muj, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20m, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20mu, time:20:24
+request: /api/songs/get?search=Ty%20jsi, time:20:24
+request: /api/songs/get?search=Ty%20jsi, time:20:24
+request: /api/songs/get?search=Ty%20jsi, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20m, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20me, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20meh, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20meho, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20meh, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20me, time:20:24
+request: /api/songs/get?search=Ty%20jsi, time:20:24
+request: /api/songs/get?search=Ty%20jsi%20m, time:20:24
+request: /api/songs/get?search=Ty%20jsi, time:20:24
+request: /api/songs/get?search=Ty%20js, time:20:24
+request: /api/songs/get?search=Ty%20j, time:20:24
+request: /api/songs/get?search=Ty, time:20:24
+request: /api/songs/get?search=Ty, time:20:24
+request: /api/songs/get?search=T, time:20:24
+request: /api/songs/get?search=, time:20:24
+request: /api/songs/get?search=J, time:20:24
+request: /api/songs/get?search=Js, time:20:24
+request: /api/songs/get?search=Jsi, time:20:24
+request: /api/songs/get?search=Js, time:20:24
+request: /api/songs/get?search=J, time:20:24
+request: /api/songs/get?search=, time:20:24
+request: /api/songs/get?search=J, time:20:24
+request: /api/songs/get?search=Je, time:20:24
+request: /api/songs/get?search=Jez, time:20:24

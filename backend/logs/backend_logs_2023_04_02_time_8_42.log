@@ -1,0 +1,494 @@
+Connected to DB
+request: /api/playlists/ins, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/playlists/get/8, time:8:42
+request: /api/playlists/members/8, time:8:42
+request: /api/playlists/songs/8, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/playlists/members/1, time:8:42
+request: /api/playlists/songs/1, time:8:42
+request: /api/playlists/get/1, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/members/8, time:8:42
+request: /api/playlists/get/8, time:8:42
+request: /api/playlists/songs/8, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=25&offset=0, time:8:42
+request: /api/playlists/songs/8, time:8:42
+request: /api/playlists/members/8, time:8:42
+request: /api/playlists/get/8, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=25&offset=0, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/members/8, time:8:42
+request: /api/playlists/get/8, time:8:42
+request: /api/playlists/songs/8, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/songs/8, time:8:42
+request: /api/playlists/get/8, time:8:42
+request: /api/playlists/members/8, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/103, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/songs/get?limit=25&offset=0, time:8:42
+request: /api/songs/get?search=T&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20j&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20js&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20m&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20me&limit=25&offset=0, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get?limit=25&offset=0, time:8:42
+request: /api/songs/get?search=T&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20j&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20js&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20m&limit=25&offset=0, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=25&offset=0, time:8:42
+request: /api/playlists/get/8, time:8:42
+request: /api/playlists/members/8, time:8:42
+request: /api/playlists/songs/8, time:8:42
+request: /api/playlists/del/8, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=25&offset=0, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/songs/get?limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=T&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20j&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20js&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20m&limit=25&offset=0, time:8:42
+request: /api/notes/get/143, time:8:42
+request: /api/tags/get/143, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get?limit=25&offset=0, time:8:42
+request: /api/songs/get?search=T&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20j&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20js&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20m&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ty%20jsi%20m%C5%AF&limit=25&offset=0, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/notes/get/24, time:8:42
+request: /api/tags/get/24, time:8:42
+request: /api/songs/get?limit=25&offset=0, time:8:42
+request: /api/songs/get?search=J&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Js&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Jsi&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Jsi%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Jsi%20B&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Jsi%20B%C5%AF&limit=25&offset=0, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/tags/get/99, time:8:42
+request: /api/notes/get/99, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get?search=Jsi%20B%C5%AF&limit=25&offset=0, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get?search=Jsi&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Jsi%20B&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Jsi%20&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Js&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=J&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Je&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Je%C5%BE&limit=25&offset=0, time:8:42
+request: /api/songs/get/103, time:8:42
+request: /api/tags/get/103, time:8:42
+request: /api/notes/get/103, time:8:42
+request: /api/songs/get/103, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/103, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/songs/get/143, time:8:42
+request: /api/songs/get/24, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: undefined
+password: undefined
+account with this email was found
+result was not only one
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: marketa.seniglova@gmail.com
+password: Genius12311
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/songs/get?limit=250&offset=0, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/get?search=V&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=Ve&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=Ver&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=V%C4%9B%C5%99&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=V%C4%9B&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=V&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=Ve&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=Ver&limit=250&offset=0, time:8:42
+request: /api/songs/get/18, time:8:42
+request: /api/notes/get/18, time:8:42
+request: /api/tags/get/18, time:8:42
+request: /api/songs/get?limit=25&offset=0, time:8:42
+request: /api/songs/get?search=V&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ve&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Ver&limit=25&offset=0, time:8:42
+request: /api/songs/get?search=Vern&limit=25&offset=0, time:8:42
+request: /api/songs/get/18, time:8:42
+request: /api/tags/get/18, time:8:42
+request: /api/notes/get/18, time:8:42
+request: /ab2g, time:8:42
+request: /ab2h, time:8:42
+request: /, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/songs/get?limit=500&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=500&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/tasks/get?limit=500&offset=0, time:8:42
+request: /api/songs/get?limit=500&offset=0, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=500&offset=0, time:8:42
+request: /api/songs/get?limit=500&offset=0, time:8:42
+request: /api/songs/get_adv?limit=500&offset=0, time:8:42
+request: /api/songs/get_adv?limit=500&offset=0, time:8:42
+request: /api/songs/get_adv?limit=250&offset=0, time:8:42
+request: /api/songs/get_adv?limit=100&offset=0, time:8:42
+request: /api/songs/get_adv?limit=50&offset=0, time:8:42
+request: /api/songs/get_adv?limit=25&offset=0, time:8:42
+request: /api/songs/get_adv?limit=50&offset=0, time:8:42
+request: /api/songs/get_adv?limit=100&offset=0, time:8:42
+request: /api/songs/get_adv?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/upd/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/songs/get?search=1, time:8:42
+request: /api/songs/get?search=10, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/songs/get/103, time:8:42
+request: /api/songs/get/99, time:8:42
+request: /api/playlists/members/10, time:8:42
+request: /api/playlists/songs/10, time:8:42
+request: /api/playlists/get/10, time:8:42
+request: /api/team/members, time:8:42
+request: /api/tasks/get?limit=250&offset=0, time:8:42
+request: /api/tasks/get/14, time:8:42
+request: /api/tasks/shared/14, time:8:42
+request: /api/team/members?notMe=1, time:8:42
+request: /api/tasks/ins, time:8:42
+request: /api/team/members, time:8:42
+request: /api/tasks/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/team/members, time:8:42
+request: /api/roles/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: pavel.zvonar@gmail.com
+password: paradigma
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/songs/get?limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/tasks/get?limit=250&offset=0, time:8:42
+request: /api/tasks/get/14, time:8:42
+request: /api/tasks/shared/14, time:8:42
+request: /api/team/members, time:8:42
+request: /api/tasks/get?limit=250&offset=0, time:8:42
+request: /api/songs/get?limit=250&offset=0, time:8:42
+request: /api/songs/get/123, time:8:42
+request: /api/tags/get/123, time:8:42
+request: /api/notes/get/123, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/team/members, time:8:42
+request: /api/roles/logged, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /favicon.ico, time:8:42
+request: http://api.ipify.org/?format=json, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /favicon.ico, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /favicon.ico, time:8:42
+request: /sitemap.xml, time:8:42
+request: /robots.txt, time:8:42
+request: /, time:8:42
+request: /, time:8:42
+request: /favicon.ico, time:8:42
+request: /status, time:8:42
+request: /stat, time:8:42
+request: /1:0:19:1F41:CA1:3:EB0000:0:0:0:, time:8:42
+request: /1:0:19:1F41:CA1:3:EB0000:0:0:0:, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/users/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: samuel.senigl@gmail.com
+password: samueltelc12
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/songs/get?limit=250&offset=0, time:8:42
+request: /api/songs/get?search=1&limit=250&offset=0, time:8:42
+request: /api/songs/get?search=10&limit=250&offset=0, time:8:42
+request: /api/team/members, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=k&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kk&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kkk&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kkkj&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kkkjk&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kkkj&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kkk&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=kk&limit=250&offset=0, time:8:42
+request: /api/playlists/get?search=k&limit=250&offset=0, time:8:42
+request: /api/playlists/get?limit=250&offset=0, time:8:42
+request: /api/songs/get?limit=250&offset=0, time:8:42
+request: /api/registration/new, time:8:42
+request: /api/login, time:8:42
+LETS DO LOGIN
+username: test_vedouci@sizej.cz
+password: test_vedouci
+account with this email was found
+correct password and username
+token generated
+new token was saved, login was successful
+request: /api/users/logged, time:8:42
+request: /api/teams/logged, time:8:42
+request: /api/songs/random, time:8:42
+request: /api/playlists/next, time:8:42
+request: /api/tasks/get, time:8:42
+request: /api/songs/get?limit=250&offset=0, time:8:42
